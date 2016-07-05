@@ -54,3 +54,11 @@ library("evtree")
 ```
 
 Deskripsinya akan saya lanjutkan, tapi kode `R` dan datasetnya telah siap untuk diunduh. Jangan lupa untuk menyebutkan sumbernya, karena lisensinya `CC-BY`.
+
+This repo is also made available on Zenodo.
+
+[![DOI](https://zenodo.org/badge/20095/dasaptaerwin/DecisionTree.svg)](https://zenodo.org/badge/latestdoi/20095/dasaptaerwin/DecisionTree)
+
+Cite as
+
+Dasapta Erwin Irawan. (2016). DecisionTree: Decision tree on West Java HDI data: code and dataset (v1.0). Zenodo. [10.5281/zenodo.57105](https://zenodo.org/badge/latestdoi/20095/dasaptaerwin/DecisionTree)
